@@ -1,0 +1,1 @@
+/opt/rh/rh-python36/root/bin/python /opt/jira/ticket.py "10000" "Host $HOSTSTATE$ alert for $HOSTNAME$!" "Type $NOTIFICATIONTYPE$, Host  $HOSTNAME$, State  $HOSTSTATE$, Address  $HOSTADDRESS$, Info  $HOSTOUTPUT$, Date/Time  $DATE$"
